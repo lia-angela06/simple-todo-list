@@ -20,5 +20,5 @@ Make sure you have Python installed (version 3.6 or above recommended).
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/simple-todo-list.git
+git clone https://github.com/lia-angela06/simple-todo-list.git
 cd simple-todo-list
