@@ -16,7 +16,7 @@ Easy-to-use dropdown menus
 
 ## Screenshot
 Here's a preview of the app's user interface:
-![ToDo GUI Screenshot](screenshot.png)
+![ToDo GUI Screenshot](screenshot.png.png)
 
 ## How to Run
 
