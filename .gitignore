@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+ToDo_List.txt
+.DS_Store
