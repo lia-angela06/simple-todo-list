@@ -14,6 +14,10 @@ Delete tasks
 Mark tasks as completed  
 Easy-to-use dropdown menus  
 
+## Screenshot
+Here's a preview of the app's user interface:
+![ToDo GUI Screenshot](screenshot.png)
+
 ## How to Run
 
 Make sure you have Python installed (version 3.6 or above recommended).
